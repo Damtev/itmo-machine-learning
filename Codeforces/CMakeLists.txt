@@ -1,0 +1,22 @@
+cmake_minimum_required(VERSION 3.17)
+project(Codeforces)
+
+set(CMAKE_CXX_STANDARD 17)
+
+include_directories(src)
+
+add_executable(A src/A.cpp)
+add_executable(B src/B.cpp)
+add_executable(C src/C.cpp)
+add_executable(D src/D.cpp)
+add_executable(E src/E.cpp)
+add_executable(F src/F.cpp)
+add_executable(G src/G.cpp)
+add_executable(H src/H.cpp)
+add_executable(I src/I.cpp)
+add_executable(L src/L.cpp)
+add_executable(M src/M.cpp)
+add_executable(N src/N.cpp)
+add_executable(O src/O.cpp)
+add_executable(P src/P.cpp)
+add_executable(Q src/Q.cpp)

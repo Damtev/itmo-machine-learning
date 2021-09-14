@@ -1,0 +1,4 @@
+*.zip
+.idea
+cmake-build*/
+.ipynb_checkpoints/
